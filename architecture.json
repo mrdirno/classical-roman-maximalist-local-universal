@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_roman_maximalist_local_universal",
+  "title": "The Clockwork of Marble and Grief",
+  "tagline": "In the sweat and splendor of the Republic, one man sees the hidden gears that grind families to dust.",
+  "target_words": 70000,
+  "actual_words": 73033,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Anatomy of Power",
+    "The Sacred as a Political Weapon",
+    "Observation as a Form of Resistance",
+    "The Personal Cost of Systemic Logic"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Sweating Marble",
+      "words": 3500
+    },
+    {
+      "ch": 2,
+      "title": "The Fortress of Tufa",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "The Sanctum of Calculation",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "The Price of Lares",
+      "words": 2900
+    },
+    {
+      "ch": 5,
+      "title": "The Debt of Blood",
+      "words": 3000
+    },
+    {
+      "ch": 6,
+      "title": "The Sister's Dowry",
+      "words": 3100
+    },
+    {
+      "ch": 7,
+      "title": "The Corinthian Consortium",
+      "words": 3300
+    },
+    {
+      "ch": 8,
+      "title": "The Labyrinth's Path",
+      "words": 2900
+    },
+    {
+      "ch": 9,
+      "title": "The Stopping Hawk",
+      "words": 3200
+    },
+    {
+      "ch": 10,
+      "title": "Cicero's Dismay",
+      "words": 3100
+    },
+    {
+      "ch": 11,
+      "title": "The Aemilian Ashes",
+      "words": 3000
+    },
+    {
+      "ch": 12,
+      "title": "The Veturian Gambit",
+      "words": 3400
+    },
+    {
+      "ch": 13,
+      "title": "The Via Appia Weight",
+      "words": 2900
+    },
+    {
+      "ch": 14,
+      "title": "The Mos Maiorum",
+      "words": 3200
+    },
+    {
+      "ch": 15,
+      "title": "The Gilt Bronze Truth",
+      "words": 3100
+    },
+    {
+      "ch": 16,
+      "title": "The Steam Bath Conspiracy",
+      "words": 3300
+    },
+    {
+      "ch": 17,
+      "title": "The Dry Stone Heart",
+      "words": 3000
+    },
+    {
+      "ch": 18,
+      "title": "The Mortar of Lies",
+      "words": 2900
+    },
+    {
+      "ch": 19,
+      "title": "The Geometry of Shame",
+      "words": 3200
+    },
+    {
+      "ch": 20,
+      "title": "The Still Water Plot",
+      "words": 3100
+    },
+    {
+      "ch": 21,
+      "title": "The Praetor's Scale",
+      "words": 3400
+    },
+    {
+      "ch": 22,
+      "title": "The Ancestral Pasture",
+      "words": 2900
+    },
+    {
+      "ch": 23,
+      "title": "The Mechanism Revealed",
+      "words": 3500
+    },
+    {
+      "ch": 24,
+      "title": "The Different Fire",
+      "words": 3600
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character uses a seemingly mundane object (like a seal, a tile, a specific food) to deduce a complex political or financial truth.",
+      "Explore a moment of silent communication or understanding between two characters from vastly different social strata (e.g., a senator and his litter-bearer, a matron and her Greek physician).",
+      "Detail the ritual of a minor, household religious observance and show how it is being weaponized for social or economic pressure.",
+      "Write a dialogue where every line is a polite, coded lie, and the true conflict simmers beneath the formal language."
+    ],
+    "technical": [
+      "Build an interactive map of the Roman Forum, keyed to the novel's chapters, allowing users to click on locations (Basilica Aemilia, a specific stall) to read excerpts and see character paths.",
+      "Create a 'Social Debt Ledger' visualization for a key character, tracking favors owed, bloodline prestige, monetary debts, and spiritual obligations as a dynamic, interconnected network."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Tacitus",
+      "Henry James",
+      "Fyodor Dostoevsky",
+      "Ursula K. Le Guin"
+    ]
+  },
+  "cover_prompt": "A lone, weary Roman senator in a toga stands in the shadow of a colossal, ornate marble gear, his hand pressed against its cold, veined surface as if feeling its silent, grinding turn, within the vast, vaulted interior of a basilica transformed into a stark, mechanical workshop, [Detailed Scene & Context] in the hyper-detailed, allegorical, and theatrically lit style of classical history painting as executed by Anselm Kiefer, with the material weight of Thomas Hart Benton's murals and the intricate, symbolic machinery of Leonardo da Vinci's engineering sketches, [Artistic Style & Medium] book cover framing, a centered and monumental composition viewed from a low, reverent angle that emphasizes the crushing scale of the machinery over the solitary human figure, [Composition & Camera] dramatic chiaroscuro lighting with a single, dusty light beam slicing through the gloom, illuminating marble dust in the air, color palette of cold marble whites, tarnished bronze, deep umbra shadows, and the faint, warm ochre of old parchment, [Lighting & Color Palette] masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev. [Quality & Technical Enforcers]"
+}
