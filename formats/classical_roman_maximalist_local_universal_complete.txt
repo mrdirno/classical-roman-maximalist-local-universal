@@ -1,4 +1,6 @@
- CHAPTER 1
+Chapter 1
+
+CHAPTER 1
 
 The marble was sweating. Great, greasy pearls of condensation slid down the veined flanks of the column to Lucius’s left, tracing paths through the dust of centuries. He watched one bead gather, tremble, and fall, splattering on the mosaic floor between the feet of a Syrian merchant who was shouting himself purple over the price of Egyptian linen. The humidity of a thousand bodies—senators in their togas, their wool damp and heavy as drowned sheep; merchants from Ostia smelling of salt and fish; Gallic chieftains in trousers, their hair stiff with lime; matrons layered in silk and complaint—had turned the great Basilica Aemilia into a steam bath. The air tasted of wet wool, garlic, and ambition.
 
@@ -93,7 +95,9 @@ He had introduced his random variable. Now he would pay its price.
 He walked towards his father, the sweat of the marble finally finding him, tracing a cold line down his own spine.
 
 ---
- CHAPTER 2
+Chapter 2
+
+CHAPTER 2
 
 The house of Gaius Veturius did not sweat. It sat high on the Palatine Hill, a fortress of cool shadow and geometric order, its walls not of brick but of massive, close-fitted blocks of tufa that drank the sun’s heat and gave back nothing. The atrium was a study in restrained power: the black-and-white mosaic floor depicted not frolicking nymphs, but the solemn, linear pattern of a labyrinth. The impluvium pool at its center held water so still it looked like a sheet of dark glass. The air smelled of beeswax, dried lavender, and stone.
 
@@ -142,8 +146,7 @@ The second punishment. He was to be the instrument of his sister’s cage. The c
 “I understand,” he said, because there was nothing else to say.
 
 “Go,” Gaius said, dismissing him. “Your mother wishes to see you in the garden. She has been among the flowers again. She requires pacifying.”
-
-The peristyle garden was the house’s one concession to softness. It was a riot of color and scent where the atrium was monochrome and odorless. Roses, lilies, and violets fought for space in ordered beds. A fig tree spread its generous shade. Here, the air smelled of earth and perfume.
+  - The peristyle garden was the house’s one concession to softness. It was a riot of color and scent where the atrium was monochrome and odorless. Roses, lilies, and violets fought for space in ordered beds. A fig tree spread its generous shade. Here, the air smelled of earth and perfume.
 
 Livia Veturius sat on a marble bench, her hands in her lap, perfectly still. She was a beautiful woman, her features preserved like a portrait in wax. Her hair was dressed in an elaborate tower of curls, gold wire woven through it. She looked at a spray of honeysuckle but did not see it.
 
@@ -192,8 +195,7 @@ Cornelia’s sharp mind connected the dots instantly. She gave a short, bitter l
 “Spoken like a true Veturius. Always choosing the most efficient cruelty.” She looked at him over her shoulder. “The voices in the garden are loud today. What do they tell you, Lucius? When you stand in that empty atrium and take those little bronze figures from the wall, what will you hear?”
 
 He had no answer. He left her there, surrounded by the words of dead poets, a tool being sharpened for a purpose she despised.
-
-The next morning, the city had been scrubbed by a brief, pre-dawn rain. The cobbles of the Via Sacra shone, and the air held a clean, metallic tang. Lucius, in the purple-bordered toga of his rank, felt like a fraud in a shroud. Behind him, four of his father’s most impassive slaves carried a draped litter. Within it, on a bed of wool, were the Aemilian lares.
+  - The next morning, the city had been scrubbed by a brief, pre-dawn rain. The cobbles of the Via Sacra shone, and the air held a clean, metallic tang. Lucius, in the purple-bordered toga of his rank, felt like a fraud in a shroud. Behind him, four of his father’s most impassive slaves carried a draped litter. Within it, on a bed of wool, were the Aemilian lares.
 
 The Aemilii house was on the lower slope of the Caelian, a once-proud structure now showing its bones. The stucco was cracked, the tiles on the roof were mismatched repairs. The door, however, was freshly oiled, a last bastion of dignity.
 
@@ -238,7 +240,9 @@ He had not introduced a random variable. He had been a variable in his father’
 And for the first time, with a clarity that was like a shard of ice in his heart, Lucius began to.
 
 ---
- CHAPTER 3
+Chapter 3
+
+CHAPTER 3
 
 The study of Gaius Veturius was a sanctum of calculation. Here, the labyrinth of the atrium gave way to stark utility: a massive desk of citrus wood, a single chair, shelves holding not scrolls of poetry but ledgers, maps on rollers, and small, heavy chests. The only light came from a high, narrow window, cutting a sharp beam through the dust-moted air. It fell directly on the map unfurled on the desk, illuminating a stretch of the Via Appia. A small, onyx weight held down each corner.
 
@@ -269,8 +273,7 @@ The smile vanished. The porphyry mask returned. “Your sister is an asset of th
 “She understands necessity,” Lucius said quietly. “She despises it.”
 
 “Then she is not yet a Roman,” Gaius said, turning back to the map. “See that she becomes one. You are dismissed.”
-
-The Ludi Romani were the Republic’s roaring heartbeat. For two weeks, the city shed its toga and donned the garish, sweating tunic of spectacle. The Circus Maximus was a seething canyon of humanity, a quarter-million voices rising in a single, mindless thunder. The air trembled with the stamping of feet, the blare of trumpets, the shriek of betting men. The scent was a brutal cocktail: hot dust, spilled wine, animal dung, and the salty tang of crowd-sweat.
+  - The Ludi Romani were the Republic’s roaring heartbeat. For two weeks, the city shed its toga and donned the garish, sweating tunic of spectacle. The Circus Maximus was a seething canyon of humanity, a quarter-million voices rising in a single, mindless thunder. The air trembled with the stamping of feet, the blare of trumpets, the shriek of betting men. The scent was a brutal cocktail: hot dust, spilled wine, animal dung, and the salty tang of crowd-sweat.
 
 Lucius sat in the Veturian box, a shaded wedge of marble high on the sloping stand. His father was beside him, a statue of civic enjoyment. His mother was absent, claiming a headache from the noise. Cornelia sat on Lucius’s other side, rigid, her hands folded in her lap. She wore a dress of expensive saffron yellow, a gold net restraining her hair. She looked like a sacrificial offering.
 
@@ -300,11 +303,13 @@ Cornelia was not watching at all. Her eyes were fixed on some distant point beyo
 
 As the chariots hurtled into the final lap, the Blues and Greens neck-and-neck, a disaster unfolded. The Green charioteer, trying to cut too close, clipped the spinning hub of
 
+
+
 ---
 
- Chapter 4
+Chapter 4
 
- CHAPTER 4
+CHAPTER 4
 
 The dust of the Circus Maximus tasted like ground bones. It coated the tongue, gritted between the teeth, a fine, pale powder that was the physical residue of shattered wheels, screaming horses, and the collective, held breath of two hundred thousand souls. Lucius Veturius walked through the aftermath, his boots leaving shallow prints in the silt of excitement gone cold. The great bowl was emptying, a slow, noisy hemorrhage of humanity flowing back towards the city. The air, which hours before had been a solid wall of sound, was now a cavernous echo chamber for the shouts of vendors selling lukewarm wine, the groans of the injured being carried out on stretchers, and the low, steady weeping of a Greens supporter who had lost a month’s wages on the final, fatal turn.
 
@@ -337,8 +342,7 @@ A slave approached, bowing to Lucius. “Dominus, your father requires your pres
 The world of politics, of damp wool and murmured deals, was reasserting itself, swallowing the raw truth of broken things. Lucius nodded dismissal. He looked back at the shipwright. “And if one wished to build something without a flaw, Marcus Afer? Where would one begin?”
 
 For the first time, a crack appeared in the man’s weathered composure. Not a smile, but a subtle shift in the set of his jaw, a spark in the slate-colored eyes. “You begin by knowing the wood. Not the price of it. Not its reputation. The feel of it. The song it sings when you strike it. You listen to what it wants to be.” He glanced at the dead horses, his expression unreadable. “Most men only listen to what they want it to do.”
-
-The house of Lucius Calpurnius Piso was a monument to tasteful restraint, which in Rome meant marble from Thasos, citrus wood tables from Mauretania, and wall frescoes so subtly executed they seemed not painted but grown. The air was cool, scented with lemon verbena and the faint, sweet smell of beeswax. It was a world away from the sweating basilica and the dusty Circus, yet to Lucius, the atmosphere was just as thick. Here, ambition was chilled and served with honeyed wine.
+  - The house of Lucius Calpurnius Piso was a monument to tasteful restraint, which in Rome meant marble from Thasos, citrus wood tables from Mauretania, and wall frescoes so subtly executed they seemed not painted but grown. The air was cool, scented with lemon verbena and the faint, sweet smell of beeswax. It was a world away from the sweating basilica and the dusty Circus, yet to Lucius, the atmosphere was just as thick. Here, ambition was chilled and served with honeyed wine.
 
 He was adrift. His father was deep in conversation with Piso and a hawk-nosed man named Appius Claudius, their heads bent over a scroll detailing, Lucius caught, the projected tax yields from Sicily. Cornelia was performing a delicate, deadly ballet with Piso’s wife and her circle, her laughter a silver bell that never reached her eyes. Lucius understood the rules of this arena in theory: the coded compliments, the strategic self-deprecation, the art of the lingering pause. But applying them was like speaking a language he had only ever read.
 
@@ -365,8 +369,7 @@ The offer was not made, yet it hung in the air between them, clearer than if it 
 “The flaws in the wood,” Pomponius said, his mild eyes suddenly sharp. “The green oak that weeps. The man who is over-leveraged. The senator whose hatred for your father outweighs his love for the Republic. The world runs on secrets, young Veturius. I merely wish to know the price of them before they break.”
 
 It was a pact with a shadow. But in a world of blinding sun and sharp edges, a shadow could be a place to see clearly. Lucius gave a slow, almost imperceptible nod. No words were needed. The alliance was forged in a glance, over cups of wine, amidst the painted fall of a boy who flew too close to the sun.
-
-The flaw in the wood revealed itself three days later, in the Forum. Lucius was accompanying his father on a morning of formal calls, a living appendage to Gaius’s political will. They had just left the Rostra, where Gaius had delivered a succinct, persuasive argument for the funding of a new aqueduct, when a voice, smooth as oiled marble, slithered across the space between them.
+  - The flaw in the wood revealed itself three days later, in the Forum. Lucius was accompanying his father on a morning of formal calls, a living appendage to Gaius’s political will. They had just left the Rostra, where Gaius had delivered a succinct, persuasive argument for the funding of a new aqueduct, when a voice, smooth as oiled marble, slithered across the space between them.
 
 “Gaius Veturius. Your oratory is as efficient as your accounting. One almost forgets the poetry of the thing in admiration of its utility.”
 
@@ -389,8 +392,7 @@ He had, with a few perfectly chosen words, poisoned the project. He had not oppo
 Gaius watched him go, his jaw a hard line. “That,” he said quietly to Lucius, “is what true opposition looks like. Not a shouting man in the Forum, but a quiet man in the shadows with a long memory and a longer knife. He was a rival of my father’s. He believes our family’s rise from trade to be a stain on the Senate. He will never shout. He will only ever… suggest.”
 
 Lucius understood. This was the antagonist. Not a barbarian at the gates, but a man in a white toga who believed purity of blood was the only true currency, and who saw in the Veturii everything that was wrong with a changing Rome. His power was not in legions, but in influence, in whispers, in the patient, malicious application of tradition as a weapon. His malice was the chill of a tomb, promising not a quick death, but a slow, inexorable erasure.
-
-The setback came wrapped in the guise of opportunity. Titus Pomponius, true to his word, provided a first piece of intelligence: a young, ambitious quaestor, Aulus Hostilius, was drowning in debt from his campaign, debt owed to a Cypriot moneylender with ties to Falto. Hostilius was desperate, malleable. He held a minor but crucial vote on the upcoming grain commission, a commission Gaius sought to influence. The plan, as Pomponius outlined it in a discreet meeting at his warehouse near the Tiber, was elegant. Lucius would approach Hostilius, not with a blunt offer of money, but with a solution: an introduction to a reputable, discrete lender from Pomponius’s own network who would refinance his debt on better terms. The gratitude, and the subsequent vote, would follow naturally.
+  - The setback came wrapped in the guise of opportunity. Titus Pomponius, true to his word, provided a first piece of intelligence: a young, ambitious quaestor, Aulus Hostilius, was drowning in debt from his campaign, debt owed to a Cypriot moneylender with ties to Falto. Hostilius was desperate, malleable. He held a minor but crucial vote on the upcoming grain commission, a commission Gaius sought to influence. The plan, as Pomponius outlined it in a discreet meeting at his warehouse near the Tiber, was elegant. Lucius would approach Hostilius, not with a blunt offer of money, but with a solution: an introduction to a reputable, discrete lender from Pomponius’s own network who would refinance his debt on better terms. The gratitude, and the subsequent vote, would follow naturally.
 
 “It is a gentle nudge,” Pomponius said, examining a sample of Egyptian papyrus. “Not a bribe. A favor between friends. This is how things are done.”
 
@@ -412,11 +414,13 @@ He had approached the game with the logic of his father: a transaction, a calcul
 
 The hook for his father’s ambition had been set, and now it was being pulled, not with a jerk, but with a steady, relentless pressure. And somewhere in the dark, Quintus Valerius Falto was beginning to reel it in.
 
+
+
 ---
 
- Chapter 5
+Chapter 5
 
- CHAPTER 5
+CHAPTER 5
 
 The rain was a grey violence. It did not fall so much as it was hurled, a sideways scourge that turned the Via Appia into a river of ochre mud and the surrounding fields into a quaking bog. Lucius watched it from the dubious shelter of a roadside tavern’s overhang, a tile-roofed lean-to that shuddered with each gust. The water ran in sheets from the eaves, a curtain separating him from the world. Behind him, in the tavern’s single smoky room, the air was a broth of wet dog, sour wine, and the earthy reek of travelers who had long since ceased to care. It was a place for men who were between things, for journeys suspended. Lucius felt the suspension in his bones.
 
@@ -465,8 +469,7 @@ Lucius looked at each of them: the soldier, the surveyor, the spy. A strange coh
 “At dawn, then,” he said.
 
 He bought them a meal of gritty bread and a stew that was mostly grease and barley. They ate in silence, each man retreating into the private fortress of his own thoughts. Lucius watched the rain. It was washing Rome away from him, layer by layer. He felt lighter, and colder.
-
-The sun that rose was a tyrant, brutal and without mercy. It did not warm; it punished. It hammered the sodden earth into a hard, cracked plain and filled the air with a blinding, dust-flecked glare. The journey was a torment. The cart wheels, which had sunk to the axles in mud the day before, now jolted over ruts as hard as stone. Heat shimmered above the fields, a liquid distortion that made the distant hills waver like a mirage.
+  - The sun that rose was a tyrant, brutal and without mercy. It did not warm; it punished. It hammered the sodden earth into a hard, cracked plain and filled the air with a blinding, dust-flecked glare. The journey was a torment. The cart wheels, which had sunk to the axles in mud the day before, now jolted over ruts as hard as stone. Heat shimmered above the fields, a liquid distortion that made the distant hills waver like a mirage.
 
 They were entering Falto’s country. Lucius felt the change not in the landscape, but in the texture of the silence. In the villages they passed, conversation died as their cart rolled through. Men watched from doorways, their faces blank as slate. There were no greetings, no curious children running alongside. It was the silence of a held breath, of a people who had learned that attention from outsiders was the prelude to pain.
 
@@ -523,8 +526,7 @@ Pomponius sighed. “And the wife has the eyes of a magpie and the discontent of
 They worked through the evening. Pomponius, oozing flattery and gossip, engaged the magistrate’s wife, Fabia, in the garden. Cassius vanished toward the barracks block. Silanus, claiming a scholar’s interest in local history, begged a look at the magistrate’s “extensive” scroll collection. Lucius remained the visible distraction, walking the walls with Statius, speaking of nothing at all.
 
 The night, when it came, was thick and hot. Lucius lay on a hard pallet, listening to the sounds of the fortified house: the tread of a guard on the wall, the distant laugh of one of Statius’s men, the chirr of cicadas. He felt the tension in the house, in the land. It was a trap, but one they had walked into willingly. The lever was here, in this place of bad bronzes and fresh-sealed scrolls. He just had to find it before the trap sprang shut.
-
-Dawn on the second day brought Bracchus. He was everything Cassius was not: tall where Cassius was squat, sleek where Cassius was hardened, with a smile that was all teeth and no warmth. He moved with a predatory grace, and his eyes, when they rested on Lucius, held a frank, appraising contempt. This was not a retired soldier. This was a current weapon.
+  - Dawn on the second day brought Bracchus. He was everything Cassius was not: tall where Cassius was squat, sleek where Cassius was hardened, with a smile that was all teeth and no warmth. He moved with a predatory grace, and his eyes, when they rested on Lucius, held a frank, appraising contempt. This was not a retired soldier. This was a current weapon.
 
 “The young master wishes to see his trees,” Bracchus said, his voice a smooth rasp. “A dusty business. But I am at your service.”
 
@@ -572,11 +574,13 @@ Bracchus’s smile had vanished. He had followed their gaze. He saw what they sa
 
 The lever was found. And it was a lever that could move the world. But it was also a death sentence, held in their hands, in this sun-blasted, godsforsaken valley. The transaction was over. The game had changed. Now it was simply about who walked out of the valley, and who was left buried in its hidden, silver heart.
 
+
+
 ---
 
- Chapter 6
+Chapter 6
 
- CHAPTER 6
+CHAPTER 6
 
 The sun was a hammer on an anvil of rock. It beat the air out of the valley, leaving a vacuum filled with the scent of crushed thyme and the metallic tang of fear. Lucius’s mind, which had just snapped the world into that terrible, silver-edged focus, now felt like a shard of glass itself—sharp, brittle, and about to fracture under a boot.
 
@@ -734,11 +738,13 @@ Below, he knew Bracchus would be watching. He would see the small, desperate fig
 
 And the story was no longer just about stolen silver. It was about a broken instrument, a lead weight, and the bloody, stubborn fact of a survivor. The climb was no longer an escape. It was an accusation, written in sweat and blood on the bare rock, one agonizing inch at a time. The ridge above was not salvation. It was merely the first sentence of the next chapter, and Lucius Veturius, who no longer did not sweat, who was drenched in it, began the painful work of writing it.
 
+
+
 ---
 
- Chapter 7
+Chapter 7
 
- CHAPTER 7
+CHAPTER 7
 
 The ridge was not a line, but a breath. Lucius crested it and the world fell away in two directions: behind him, the seared, secret bowl of the valley, its wound of silver gleaming dully in the late sun; before him, a rolling, olive-dusted slope descending into a long shadow that was not yet evening, but the creeping suggestion of it. He staggered three paces onto level ground, the rough grass whispering against his boots, and let Silanus slide from his shoulders. The Greek landed with a soft, final exhalation, more dust than man.
 
@@ -795,8 +801,7 @@ Falto’s eyes narrowed. “So the proof isn’t in a scroll. It’s in the man.
 Falto considered, then nodded once, a soldier accepting a revised battle plan. “There’s a shepherd’s hut. Down in the next valley. Belonged to my mother’s cousin. Empty, most years. We can shelter there tonight. See if we’ve been followed. Get our wind back.”
 
 They moved as the sun bled out over the western hills. The light turned the world to amber and soot, blurring the edges of things. They were two shadows moving through a landscape of shadows, their silence a language of snapped twigs and shifted gravel. Lucius felt the weight at his belt with every step. It was no longer just a piece of lead. It was the condensed silence of the valley, the last breath of Silanus, the unasked question in his father’s eyes. It was the first word of the story he had to tell.
-
-The hut was less a structure than a stubborn memory of one. Three walls of unmortared stone leaned wearily against a hillside, roofed with rotting timbers and a mat of moldering thatch. A hearthstone blackened by ancient fires sat in the center of the dirt floor. It smelled of damp earth, sheep dung, and solitude.
+  - The hut was less a structure than a stubborn memory of one. Three walls of unmortared stone leaned wearily against a hillside, roofed with rotting timbers and a mat of moldering thatch. A hearthstone blackened by ancient fires sat in the center of the dirt floor. It smelled of damp earth, sheep dung, and solitude.
 
 They approached from above, circling, watching for an hour as twilight deepened into night. No smoke. No light. No sound but the wind and the distant cry of a fox. Satisfied, they slipped inside.
 
@@ -904,11 +909,13 @@ The first grey light of dawn found them on a high, windswept bluff overlooking t
 
 Lucius stood at the edge, the sea-wind pulling at his hair and tunic. He did not see escape in the grey expanse. He saw a longer road, a wider arena. The story was no longer an accusation written on rock. It was a war declared in a whisper, and the next chapter would be written not in sweat, but in the salt spray and the cold, waiting steel of the coast road. The hook was set. Now they had to land the fish, and the line was their own lives, stretched taut over the abyss.
 
+
+
 ---
 
- Chapter 8
+Chapter 8
 
- CHAPTER 8
+CHAPTER 8
 
 The coast road was a scar of pale dust between the dark teeth of the pine forests and the bleached bone of the cliffs. It smelled of crushed rosemary and the distant, metallic tang of the sea. Lucius walked in the center of it, a deliberate silhouette against the morning sun that boiled the mist off the water. He was no longer a shadow between trees. He was a figure on a frieze, an announcement. Beside him, Falto moved with the grim economy of a man counting his remaining steps, his eyes never resting on one point for long, but scanning the road ahead, the forest edge, the glittering knife-edge of the sea below.
 
@@ -1050,11 +1057,13 @@ Lucius did not look back. He sat with his back against the mast, the bundle in h
 
 The boat rose and fell on the swells. The coast became a smudge, then a line, then a memory. Ahead was Ostia. Then Rome. The arena was wider now. It contained sea and sky and the hearts of frightened fishermen. The hook was set deep, in his own flesh. And the line, as he watched the gulls circle the mast, was no longer just his life. It was his humanity, stretching, fraying, taut over the abyss.
 
+
+
 ---
 
- Chapter 9
+Chapter 9
 
- CHAPTER 9
+CHAPTER 9
 
 The salt had dried to a fine, grey powder on his skin, a second epidermis. It crackled in the folds of his tunic as Lucius moved through the Ostia docks, a ghost walking through a world of solid, shouting men. The bundle was no longer in his lap. It was lashed inside a waxed leather satchel, bought from a wide-eyed chandler with one of the last, salt-corroded coins from his belt. The satchel hung against his hip, a cold, pendulous weight that swung with the rhythm of his steps, tapping his thigh like a reminder. A heartbeat that was not his own.
 
@@ -1236,11 +1245,13 @@ Lucius looked past him, past the temple, past the city, to the grey sky that str
 
 “There is no ‘where’,” Lucius Veturius said. And he turned, and he walked into the roaring heart of the city, a man made of silence and salt, carrying his bloody shroud into the crowd, where he vanished, becoming just another thread in the vast, stained tapestry of Rome.
 
+
+
 ---
 
- Chapter 10
+Chapter 10
 
- CHAPTER 10
+CHAPTER 10
 
 The dust was singing. A thin, high note, borne on the sirocco that snaked through the Subura’s alleys, lifting the grey powder from collapsed brick and shattered tile, making it dance in the shafts of honeyed light that fell between tenement roofs. It settled on eyelids, on lips, on the still-wet stains that darkened the cobbles near the public fountain. It was the dust of home, of a world unmade and remade a thousand times, and it tasted of ash and dried thyme and the faint, metallic tang of old blood.
 
@@ -1285,8 +1296,7 @@ A hero’s welcome. Not with garlands and songs, but with stew and sour wine and
 “There is always a story,” Tiberius replied. “Even if it’s a lie. Especially if it’s a lie. They need to know what to call you now.”
 
 Lucius looked past him, to the bar of light on the floor. A million dust motes whirled in it, a frantic, silent dance. He was one of them now. Not the hand that stirred them. Just another particle in the beam. “They can call me what they like.”
-
-Gallio’s stew-pot was a democracy. Its rich, greasy scent was the true constitution of the Vicus Fabricii. It drew men from their crumbling apartments and tiny workshops, a copper coin their ticket to an hour of warmth and shared complaint. The room at the back of his cook-shop was low-ceilinged, smoky, and loud. The walls were stained the colour of old broth.
+  - Gallio’s stew-pot was a democracy. Its rich, greasy scent was the true constitution of the Vicus Fabricii. It drew men from their crumbling apartments and tiny workshops, a copper coin their ticket to an hour of warmth and shared complaint. The room at the back of his cook-shop was low-ceilinged, smoky, and loud. The walls were stained the colour of old broth.
 
 When Lucius entered, the noise did not cease. It changed. It dipped, thickened, then surged back with a new, curious energy. He felt the eyes like physical touches—on his neck, his hands, the new stillness of his posture. He saw them: Marius the ropemaker, his fingers permanently stained with hemp; young Gaius, the mason’s apprentice, his arm in a sling from a falling scaffold; old Severus, who had lost an eye at Carthage and now saw twice as much as anyone with two; Fabia, the widow of the cobbler, her face sharp and watchful.
 
@@ -1327,8 +1337,7 @@ Lucius turned his head slowly toward her. He did not answer. He simply let her l
 The welcome was over. He had been recognized not as a triumphant hero, but as a spent weapon, a vessel emptied of everything but a usable, chilling truth. They returned to their stew, their conversations lower now, woven through with glances his way. He was part of the tapestry again, but the thread was darker, colder. A warp of iron-grey in the worn wool.
 
 He ate his stew. It was good. It tasted of nothing.
-
-The sharing of the benefits was not a ceremony. It was a slow, granular seepage, like water finding cracks in parched earth.
+  - The sharing of the benefits was not a ceremony. It was a slow, granular seepage, like water finding cracks in parched earth.
 
 Over the next days, Lucius moved through the Vicus Fabricii not as a saviour, but as a fixed point. A cold centre. He went to the fullonica, where the great brick furnace for heating urine and fuller’s earth had cracked, threatening the livelihood of eight families. The new bricks were there, pale and clean against the sooty old ones. The mason, a silent man named Spurius, was setting them with meticulous care. Lucius did not offer to help. He stood and watched. His presence seemed to steady Spurius’s hand. When a foreman from the Aventine arrived, sniffing about a delayed debt, he took one look at Lucius leaning against the doorway, said nothing, and left. The elixir was not gold; it was a reputation, now grown strange and formidable. It was a space of quiet that violence and threat did not wish to enter.
 
@@ -1347,8 +1356,7 @@ Tiberius exhaled slowly. “That,” he rumbled, “is a new trick.”
 “It is not a trick,” Lucius said, watching the shadows swallow them. “It is the absence of all tricks.”
 
 This was the healing. Not celebration, but a fragile, vigilant peace. The community, his ordinary world, was improved not by light, but by the withdrawal of a specific, targeted shadow. And it was protected now not by a shield, but by a mirror. A mirror that showed the abyss, and the man who had learned to walk upon it.
-
-The new status quo was not a return. It was a rearrangement on a deeper fault line.
+  - The new status quo was not a return. It was a rearrangement on a deeper fault line.
 
 A week after his return, Lucius sat again in his sparse room. The bar of white light had moved across the floor, climbed the opposite wall, and faded into dusk. The hollow space inside him was quiet. The balance was established. He had brought back the elixir—the money, the safety, the cold knowledge—and it was integrated. He was the story. He was integrated. He was damned. He was, in the eyes of the Vicus Fabricii, both one of them and utterly apart. A sacred monster. A quiet god of thresholds.
 
@@ -1406,11 +1414,13 @@ He held them out to her on his open palm. They lay there, gleaming dully in the 
 
 And the balance, so newly won, tipped irrevocably into a new, deeper, and more personal darkness.
 
+
+
 ---
 
- Chapter 11
+Chapter 11
 
- CHAPTER 11
+CHAPTER 11
 
 The dust had changed. It was no longer the passive, sifted powder of abandonment that lay upon the floorboards and the single shelf, but the sharp, mineral grit of the city, tracked in on sandals and shaken from cloaks. It was the dust of use. It coated the three new, plain clay cups beside the water jug. It hazed the surface of the small, scarred table where maps, now, were sometimes spread. It was a different kind of silence, too—not the hollow, airless quiet of a tomb, but the dense, listening pause between actions, between words that were careful and few.
 
@@ -1421,8 +1431,7 @@ His days had a structure, woven from the lessons of his journey. The long, empty
 In the afternoons, he worked. With a small, sharp knife, he whittled. Not figures, but practical things: a new toggle for his cloak, a smoother handle for his eating knife. The work kept his hands supple and his mind in a state of clean, focused emptiness. It was a meditation on utility. Sometimes, he would take the lock-picks from their new hiding place—a loose floorboard near the hearth—and run his fingers over their cool, familiar lines, not to use them, but to remember their language. They were verbs. To open. To bypass. To enter. They spoke of a world of barriers, and of the silent spaces between them.
 
 This was the updated daily life: a deliberate, pared-down existence, every action a conscious choice, every object possessed for a reason. The chaos of the journey—the fear, the flight, the raw confrontation with consequence—had been distilled into a quiet, potent discipline. He had integrated the core lesson: to survive was not to hide, but to see. And to see clearly, one’s own vessel must be in order.
-
-She came at twilight, always. It was the hour of changing guards, of hurried last purchases, of shadows pooling in the alleys like spilled ink. Her knock was not a request, but a signal: two quick, one slow. The dust stirred as he crossed to lift the bar.
+  - She came at twilight, always. It was the hour of changing guards, of hurried last purchases, of shadows pooling in the alleys like spilled ink. Her knock was not a request, but a signal: two quick, one slow. The dust stirred as he crossed to lift the bar.
 
 Drusilla entered not as a supplicant, but as a partner in a grim enterprise. The frightened girl was still there, in the tightness around her eyes, but she was sheathed now in a borrowed competence. She wore a plain, dark stola, the wool coarse and serviceable, her hair bound back without ornament. She carried the smell of the city with her—oil lamps, baking bread, the distant tang of the Tiber—but beneath it was the sharp, clean scent of resolve.
 
@@ -1455,8 +1464,7 @@ He understood then the redefinition. She was not just mending her life; she was 
 She looked at him then, really looked, and for a moment the conspiracy fell away, and she saw just a man, alone in a poor room, teaching a terrible, necessary skill. “You are good at it,” she said, not as flattery, but as a bleak observation.
 
 “It was my profession,” he replied, and went back to his whittling. The relationship was mended into something new: a taut, silent wire strung between two isolated points, humming with a shared, dangerous purpose.
-
-The work proceeded, a shadow-play against the bright, noisy backdrop of the city. The firewood cart rolled through the gate. The cedar strongbox yielded its secrets—not just coin, but documents of debt, letters of promise, the brittle parchment bones of a merchant’s power. Lucius took only a portion, the carefully calculated sum she had asked for, leaving the rest in disarray to suggest a clumsy, desperate theft. The tools did their work; the plan held.
+  - The work proceeded, a shadow-play against the bright, noisy backdrop of the city. The firewood cart rolled through the gate. The cedar strongbox yielded its secrets—not just coin, but documents of debt, letters of promise, the brittle parchment bones of a merchant’s power. Lucius took only a portion, the carefully calculated sum she had asked for, leaving the rest in disarray to suggest a clumsy, desperate theft. The tools did their work; the plan held.
 
 But a week after the successful act, a minor thread unraveled.
 
@@ -1473,8 +1481,7 @@ It was not a threat of exposure, not yet. It was a reminder. A lingering thread 
 Lucius did not react. He turned and walked, unhurried, from the steam into the cool of the tepidarium, then out into the blinding white light of the afternoon. The encounter was a splinter, small but capable of festering. It showed that life continued, that the world was a web of old recognitions and dormant debts. But as he walked back to his room, his mind was not clouded with panic. It was clear, assessing. He considered Silus’s motivations—curiosity, a potential future leverage, simple professional recognition. He weighed the risk—low, for now. He formulated responses—avoidance, misdirection, a prepared story should contact be forced.
 
 He was equipped to handle it. The journey had taught him that threats were not monsters to be fled, but problems to be solved. Silus was a problem. He would be monitored, his movements noted. The new, disciplined mind, honed on the road and tempered in the quiet of the poor room, began its work. The balance had been tested, but it did not tremble. It held.
-
-That night, there was no meeting with Drusilla. The room was his own again, filled only with the dust and the deep, velvety silence of the sleeping city. He did not light a lamp. He sat on his pallet, his back against the wall, and let the darkness press in.
+  - That night, there was no meeting with Drusilla. The room was his own again, filled only with the dust and the deep, velvety silence of the sleeping city. He did not light a lamp. He sat on his pallet, his back against the wall, and let the darkness press in.
 
 He reflected on the journey. Not the physical trek from the villa to Rome, but the longer, more terrible voyage from the man he had been to the man he now was. The man in the Basilica, who did not sweat, who was a monument to cold control—he was gone. Shattered by a hook in his soul, dragged through the mud and fear of flight, confronted by the living consequence of his act.
 
@@ -1494,11 +1501,13 @@ And in that moment, he knew the work with Drusilla, the watchful eye of Silus, t
 
 He had found a way to live with the hook. But the hand that had cast it was still out there, in the deep water, and it might yet decide to pull the line taut.
 
+
+
 ---
 
- Chapter 12
+Chapter 12
 
- FINAL CHAPTER
+FINAL CHAPTER
 
 The marble was dry. It stood in the afternoon sun that slanted through the high, clear windows of the new basilica, its white veins stark against a field of cool grey, drinking in the light without a single bead of sweat to give it away. Lucius ran a hand along its flank as he passed, feeling not the greasy chill of a thousand crowded breaths, but the smooth, sun-warmed certainty of stone. The dust was gone, swept away by the new regime along with the bloodstains and the old, whispered deals. The space hummed not with the frantic commerce of survival, but with the lower, purposeful murmur of administration. Clerks scratched on wax tablets. Petitioners spoke in moderated tones. The air smelled of ink, clean wool, and the faint, dry scent of plaster from a nearby repair.
 
@@ -1570,11 +1579,13 @@ But for this last moment, he remained on the terrace, a silhouette against the f
 
 The marble was dry. The city breathed around him, vast and alive. And Lucius, who had learned to feel the rhythm, breathed with it.
 
+
+
 ---
 
- Chapter 13
+Chapter 13
 
- CHAPTER 13
+CHAPTER 13
 
 The bread was stale. A hard, grey crust resisted Lucius’s teeth before yielding to a crumb that tasted of ash and distant, sun-baked fields. He sat at the small table in his room, the single lamp casting a yolk-yellow pool over the scroll he was not reading. The poetry—Catullus, all sharp edges and raw nerve—lay open but uncomprehended. The words were just marks. The silence after the fever had broken was not empty; it was filled with a new and unfamiliar substance, a kind of listening calm. He was listening to the absence of the hook.
 
@@ -1607,8 +1618,7 @@ He turned and began to walk down the corridor, his steps soft but final. He did 
 But the hook was inert. A relic. The line was cut. He was a man who breathed with the city’s rhythm. And his father, a master of currents, had just thrown a stone into his still water. To not go would be a choice made from fear. To go would be a choice made from… curiosity. A testing of the new calm against the old climate.
 
 He blew out the lamp. He did not change his tunic.
-
-The house on the Caelian Hill was not the vast, echoing domus of Lucius’s childhood on the Palatine. That was for show. This was for work. A high, windowless wall of ochre stucco presented a blank face to the street. A single, reinforced door. Marcus knocked once, a specific pattern, and a slit opened, then closed. Bolts were thrown with heavy, oiled thunks.
+  - The house on the Caelian Hill was not the vast, echoing domus of Lucius’s childhood on the Palatine. That was for show. This was for work. A high, windowless wall of ochre stucco presented a blank face to the street. A single, reinforced door. Marcus knocked once, a specific pattern, and a slit opened, then closed. Bolts were thrown with heavy, oiled thunks.
 
 The courtyard within was a geometric shock of order. A rectangle of perfect, raked gravel, devoid of fountain or statue. A colonnade of severe, unfluted columns supported a roof with a sharp, black shadow-line. The air here was not the humid soup of the basilica or the lived-in smell of Lucius’s street; it was dry, still, and carried a faint, astringent hint of lemon verbena from a single, disciplined shrub in a terracotta pot. This was a place where conversations were not overheard, where deals were not shouted, where ambition was distilled to its pure, unscented essence.
 
@@ -1675,8 +1685,7 @@ He saw the young clerk from the basilica in his mind’s eye, just starting his 
 “I find the broker,” Lucius said, the words leaving him like a measured exhalation. “I identify him. That is all.”
 
 Gaius did not turn. He gave a single, slight nod, his attention already on the next point on the map. “Marcus will provide you with what you need. Start at the docks. The Fortuna Redux sailed from Ostia. All currents lead back to their source.”
-
-The docks at Ostia were the city’s raw, beating heart. Here, the grandeur of Rome was reduced to its constituent parts: sweat, rope, wood, and a shouting, polyglot desperation. The air was a solid thing—a miasma of fish guts, tar, spices, sewage, and the wet-dog smell of soaked grain. Gulls screamed like tortured hinges. Mountains of amphorae stood in precarious ziggurats. Sailors from every corner of the known world moved with the rolling gait of men who trusted land less than sea.
+  - The docks at Ostia were the city’s raw, beating heart. Here, the grandeur of Rome was reduced to its constituent parts: sweat, rope, wood, and a shouting, polyglot desperation. The air was a solid thing—a miasma of fish guts, tar, spices, sewage, and the wet-dog smell of soaked grain. Gulls screamed like tortured hinges. Mountains of amphorae stood in precarious ziggurats. Sailors from every corner of the known world moved with the rolling gait of men who trusted land less than sea.
 
 Lucius moved through the chaos like a ghost. He had exchanged his plain tunic for one of slightly better quality, but worn, inconspicuous. Marcus had given him a purse of coins and a name: “Felix. A scriba for the collegium of ship-masters. He processed the manifest for the Fortuna Redux. If anyone noticed an anomaly, it would be him. He is… amenable to conversation.”
 
@@ -1808,11 +1817,13 @@ He had to move. Not to report. To survive.
 
 He slipped from the alcove and vanished into the maze of Ostia, a man with a new and terrible secret, the calm of the terrace a distant, fading memory. The marble was no longer dry. It was slick with the cold sweat of a fear he had thought forgotten, the fear of a man who has seen the hand, not in the deep water, but wearing a senator’s ring.
 
+
+
 ---
 
- Chapter 14
+Chapter 14
 
- CHAPTER 14
+CHAPTER 14
 
 The maze of Ostia was not built for ghosts. It was a machine of brick and ambition, its narrow streets the gutters of commerce, flowing with the effluent of a hundred nations. Lucius moved through it like a shard of ice in a warm river, the cold sweat on his neck a private mockery of the marble column’s public perspiration. The fear was a chemical clarity in his blood, a sharp, metallic taste that cut through the stench of fish and tar and human waste. It was not the old, formless dread of the deep, but a geometric terror. He had a name. He had a face. And the line between them and himself was now a taut, visible wire, vibrating with lethal potential.
 
@@ -1928,11 +1939,13 @@ He descended from the tower, his feet sinking into the soft, sucking mud of the 
 
 The hook pulled him forward, not toward safety, but toward the source of the tide. He was done waiting. He was done reacting. To survive the deep water, you did not float. You swam into the heart of the current, to find the vortex that powered it, or die in the attempt. The marble was far behind him now. All that remained was the cold, the salt, and the geometry of survival.
 
+
+
 ---
 
- Chapter 15
+Chapter 15
 
- CHAPTER 15
+CHAPTER 15
 
 The mud had a memory. It was not the passive, sedimentary memory of the forum’s dust, which recorded only the scuff of sandals and the fall of coins. This was an active, sucking memory. Each step Lucius took south from the marsh tower was recorded, then erased. The black silt of the coastal track closed over his footprints with a soft, gasping sigh, as if the land itself was swallowing evidence. It remembered the weight, the brief pressure, then chose oblivion. He walked through a landscape of perpetual amnesia, under a sky the color of a fresh bruise, dawn still an hour away.
 
@@ -2044,11 +2057,13 @@ Lucius stood in the doorway, the light behind him. “A man was waiting for his 
 
 He stepped out into the pale day. The mud accepted his first step, beginning its work of forgetting. He did not look back. The path ahead was no longer a lonely coastal track. It was a defined vector, leading from a forgotten ruin to an ugly fountain, from a broken man’s testimony to a cache of baked clay that held the geometry of an empire’s corruption. The cold salt wind pushed at his back, not as an obstacle, but as an accomplice. It was the breath of the deep current, and he was now a part of its flow, swimming not for the shore, but for the heart of the darkness where the true ledger was kept, not in ink, but in fire-hardened earth.
 
+
+
 ---
 
- Chapter 16
+Chapter 16
 
- CHAPTER 16
+CHAPTER 16
 
 The mullet was a monstrosity. A bulbous, pouting slab of grey-veined marble, its scales rendered as clumsy, overlapping plates by a mason who had either despised his subject or possessed a profound lack of talent. It squatted in a sunken, weed-choked basin before the fire-blackened steps of Ostia’s Temple of Vulcan. Water, piped from the aqueduct, dribbled from its gaping mouth into a shallow pool green with algae. The joke was a poor one: the god of the forge and the anvil, patron of the transformative flame, greeted by this damp, stone fish. The citizens of Ostia had long ceased to see it. It was part of the street’s furniture, like a cracked paving stone or a persistent puddle.
 
@@ -2124,11 +2139,13 @@ He had perhaps a day, maybe two, before the deception was discovered. Then the L
 
 The hook in his chest was gone. In its place was a cold, hard mass, like a swallowed stone. He had the proof. But proof was a weapon only if you could survive long enough to wield it. He was no longer swimming in the current. He was adrift in open water, and the predators now knew there was something in the sea that was not theirs. He looked at the tablets, these little fishes he had risked everything to catch. They were no longer just evidence. They were bait, and he was the hook they were attached to. The only question was who would be landed first.
 
+
+
 ---
 
- Chapter 17
+Chapter 17
 
- CHAPTER 17
+CHAPTER 17
 
 The stone in Lucius’s gut was a new kind of lodestone. It did not pull him toward the earth, but toward a single, fixed point in time: the moment the man with the oiled-reed basket would arrive at the Ostian warehouse, lift the false jar, and find it light with sand instead of heavy with coin. The geometry of the corruption was precise; its guardians would be punctual. The interval between now and that discovery was a narrowing corridor, its walls smooth and offering no purchase. He had traded the hook’s dull agony for the clock’s silent, metronomic terror.
 
@@ -2289,11 +2306,13 @@ The hunt from the Librarius was coming. That was certain. But now, he had unleas
 
 No one sails before a fire.
 
+
+
 ---
 
- Chapter 18
+Chapter 18
 
- CHAPTER 18
+CHAPTER 18
 
 The silence in Lucius’s rooms was not an absence, but a presence. It was the dense, watchful quiet that follows the last note of a hymn in a temple, or the final, echoing footfall of a retreating guard. It pressed against his ears, against his skin. The afternoon sun slanted through the high window, a solid bar of gold motes turning above the mosaic floor, illuminating the empty chair, the bare table, the strongbox squatting beneath his bed like a dormant beast. He had barricaded the door. He had secured the evidence. He had, by any practical measure, achieved a moment of safety. A pause.
 
@@ -2457,11 +2476,13 @@ Blaesus raised his cup, his eyes fixed on Lucius over the rim. “To new foundat
 
 Lucius looked at his own cup, still full. The wine was dark, like old blood. He did not move. He was waiting again. But this time, he was waiting to see what form his own annihilation would take.
 
+
+
 ---
 
- Chapter 19
+Chapter 19
 
- CHAPTER 19
+CHAPTER 19
 
 The ninth hour bell finished its toll. The last bronze note did not fade so much as it was absorbed by the thick plaster of the villa’s walls, the dense wool of the rugs, the patient, waiting silence of the two men who watched him. Lucius’s unmoved cup was an accusation. Its stillness, in the face of Blaesus’s toast, was a declaration of war conducted entirely in negative space. He had not refused. He had not agreed. He had become a void into which their proposition poured, and gave nothing back.
 
@@ -2516,8 +2537,7 @@ There was a challenge in the soldier’s flat words. A test. He did not trust th
 “An excellent suggestion,” Blaesus said, his enthusiasm returning. “A practical education. Go with him, Veturius. See the new geometry in practice. It will clarify your thoughts.”
 
 Lucius stood. His body felt like a borrowed thing, its movements slightly delayed, as if he were piloting it from a great distance. He followed Falco’s dark shape out of the triclinium, through the atrium where the impluvium was a black mirror reflecting a single star, and into the street.
-
-The city at the tenth hour was a different organism. The feverish hum of the day had broken. The wide, flagstoned streets were still peopled, but the crowds had a purposeful, liquid flow, draining toward baths, taverns, homes. In the narrower alleys, the shadows congealed. Falco moved through them without sound, a pike through murky water. Lucius followed, his own footsteps echoing too loudly in the confined spaces.
+  - The city at the tenth hour was a different organism. The feverish hum of the day had broken. The wide, flagstoned streets were still peopled, but the crowds had a purposeful, liquid flow, draining toward baths, taverns, homes. In the narrower alleys, the shadows congealed. Falco moved through them without sound, a pike through murky water. Lucius followed, his own footsteps echoing too loudly in the confined spaces.
 
 They did not speak. Falco was not a guide. He was a destination. Lucius was merely the baggage, being carried along to be unpacked at the site.
 
@@ -2601,11 +2621,13 @@ He turned toward the Viminal Hill and home. The ninth hour bell felt like a life
 
 He would give the wolf and the soldier their list tomorrow. And he would watch, with the patience of a master observer, for the first crack to appear in their beautiful, terrible, new foundation.
 
+
+
 ---
 
- Chapter 20
+Chapter 20
 
- CHAPTER 20
+CHAPTER 20
 
 The list was a dry, administrative thing. It sat on the bleached oak of Blaesus’s campaign table, a scroll of papyrus weighted at its corners by a stylus, a wax-sealed dispatch, and a dagger with a pommel of yellowed ivory. The morning light, filtering through the linen canopy stretched over the tribunal, rendered the ink a dull, bureaucratic brown. It listed properties, in order of recommended demolition: a block of insulae behind the Circus Maximus, a warren of shops clinging to the base of the Capitoline, a derelict temple precinct on the Aventine once sacred to some forgotten Etruscan god. Each entry was accompanied by a notation of ownership—mostly the state, or estates long in default—and a terse, technical justification: substructure compromised, fire risk acute, impedes planned thoroughfare.
 
@@ -2642,10 +2664,7 @@ The hooded figure from the Temple of Saturn. A co-conspirator, or a rival? An al
 The cold confirmation of the night before warmed now into a thread of pure, sharp tension. He was not alone. This introduced a new variable. A second flaw in the measurement could cancel the first out, or amplify it beyond all prediction. He had to know which.
 
 He did not pursue. A master observer knows when the field is compromised. He withdrew, melting back into the sluggish stream of the city’s life, his mind a lattice of intersecting lines. The list was the fuse. The shared wall was the charge. Blaesus and Cassius were the blasting crew. And now there was another, a shadow holding a mirror to his own intentions. The geometry had indeed grown complex.
-
-		
-
-The demolition began not at dawn, but in the gauzy, grey pre-light, the hour when night and day lay down together in exhausted truce. Lucius was there, not by command, but by the compulsion of the architect to witness his own creation. He stood with a cluster of junior prefects and clerks on a raised section of the Servian Wall, a sanctioned distance away. Blaesus and Cassius were closer, on horseback, silhouettes of authority against the growing pallor of the east.
+  - The demolition began not at dawn, but in the gauzy, grey pre-light, the hour when night and day lay down together in exhausted truce. Lucius was there, not by command, but by the compulsion of the architect to witness his own creation. He stood with a cluster of junior prefects and clerks on a raised section of the Servian Wall, a sanctioned distance away. Blaesus and Cassius were closer, on horseback, silhouettes of authority against the growing pallor of the east.
 
 The Egyptian workers were a sullen, sinewy mass in the street below. They moved with a rhythmic resignation, setting up great wooden tripods, threading ropes thicker than a man’s wrist through pulleys, positioning iron crowbars as long as lances. Their overseers, soldiers from Cassius’s cohort, barked orders that echoed flatly in the canyon. The sound was not the vibrant chaos of the Forum, but the sterile, percussive noise of directed force.
 
@@ -2743,11 +2762,13 @@ But as he was led away, the hook settled in his mind, pulling him toward the nex
 
 He had wanted to see the first crack. Now, he would have to navigate the earthquake.
 
+
+
 ---
 
- Chapter 21
+Chapter 21
 
- CHAPTER 21
+CHAPTER 21
 
 The dust of the granary had settled into a fine, gilded grime that lined the creases of Lucius’s tunic and clung to the damp skin of his throat. It was a tangible residue of the chasm, a powder of consequence. He walked between the two soldiers not as a prisoner, but as a piece of evidence being relocated for examination. The Prefect’s men did not drag him; they escorted. Their grip was institutional, a formality of custody that spoke of a process not yet decided. The streets of Arelate were a theater of controlled panic. Clerks from the statio scurried like beetles from a kicked-over log, their arms full of wax tablets and scrolls. Legionaries from the garrison, their faces set in the bland mask of duty, were already erecting a cordon of rope and spear around the square where the golden haze still hung, a permanent, accusing sunset at noon.
 
@@ -2891,11 +2912,13 @@ He sat on the edge of his pallet, the dust of the granary still a faint sweetnes
 
 The game was not just his. It was a game of hammers and blueprints. And as the lamp guttered, casting frantic shadows on the wall, Lucius Veturius, the master observer, began to plan his own next move. Not as a piece on their boards, but as the player he had always been, waiting in the dry, cool stone of himself. The earthquake had come. Now, he would have to learn to build on the fault line.
 
+
+
 ---
 
- Chapter 22
+Chapter 22
 
- CHAPTER 22
+CHAPTER 22
 
 The dust in the room had settled into a new, more deliberate pattern. It coated the single low table, the stool, the rim of the water jug, like a fine, grey witness. Lucius had not slept. The lamp had burned down to a numb of wick in a pool of hardened oil, and the dawn had arrived not with light but with a slow, granular leaching of grey into the space above the rooftops. The cold was a presence, seeping from the plaster, from the tile floor, from the bones of the city itself. It was the cold of a mechanism pausing between great, grinding strokes.
 
@@ -3011,11 +3034,13 @@ He turned his back on the Basilica and walked toward his cold room. The plan he 
 
 The fire in the port painted the undersides of the clouds a bruised orange. In his room, Lucius Veturius sat once more in the dark, no longer waiting, but calculating the vectors of force, the tensile strength of loyalty, the ignition point of a city. He was no longer a piece on their boards. He was the quiet, gathering pressure in the fissure between them.
 
+
+
 ---
 
- Chapter 23
+Chapter 23
 
- CHAPTER 23
+CHAPTER 23
 
 The silence in the room was not an absence, but a substance. It was the dense, granular quiet of a tomb sealed for millennia, of a mind that had turned its focus so completely inward that the world became a faint fresco on a crumbling wall. Lucius Veturius sat within it, a statue in the unlit chamber, the bruised glow from the port fires long since faded to a dull, city-thrumming grey. The calculations were not numbers, but textures. The gritty friction of a legion’s loyalty grinding against the sleek, oiled promise of extra pay. The brittle snap of a merchant’s contract under the strain of rumor. The soft, fungal give of a senator’s resolve in the damp dark of a personal compromise. He mapped not events, but pressures. He was no longer observing the fault line; he had dissolved into its deepest, most patient stratum.
 
@@ -3175,11 +3200,13 @@ He walked through the sleeping city, a ghost among ghosts. His plan was in motio
 
 The faith would be saved. The city would hold. But the man walking toward it, armed with the tools of its salvation and the knowledge of its utter fragility, was already a relic of a world that was about to end, whether it knew it or not. The pressure in the fissure was now a deafening roar only he could hear, and he was walking directly into its source, a living man calculating the vectors of his own obliteration.
 
+
+
 ---
 
- Chapter 24
+Chapter 24
 
- CHAPTER 24
+CHAPTER 24
 
 The air was sweating. Not with the greasy, human humidity of the Basilica Aemilia, but with a fine, cold mist that rose from the Tiber, clinging to the stone of the city like a shroud. It beaded on the bronze cap of the mile-marker where Lucius Veturius stood, tracing silver paths in the lamplight. The fog tasted of river mud, of winter-rotted leaves, and of the strange, metallic stillness that precedes an execution.
 
