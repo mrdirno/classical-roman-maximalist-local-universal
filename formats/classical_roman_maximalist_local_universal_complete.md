@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The marble was sweating. Great, greasy pearls of condensation slid down the veined flanks of the column to Lucius’s left, tracing paths through the dust of centuries. He watched one bead gather, tremble, and fall, splattering on the mosaic floor between the feet of a Syrian merchant who was shouting himself purple over the price of Egyptian linen. The humidity of a thousand bodies—senators in their togas, their wool damp and heavy as drowned sheep; merchants from Ostia smelling of salt and fish; Gallic chieftains in trousers, their hair stiff with lime; matrons layered in silk and complaint—had turned the great Basilica Aemilia into a steam bath. The air tasted of wet wool, garlic, and ambition.
@@ -93,6 +95,8 @@ He had introduced his random variable. Now he would pay its price.
 He walked towards his father, the sweat of the marble finally finding him, tracing a cold line down his own spine.
 
 ---
+# Chapter 2
+
 ## CHAPTER 2
 
 The house of Gaius Veturius did not sweat. It sat high on the Palatine Hill, a fortress of cool shadow and geometric order, its walls not of brick but of massive, close-fitted blocks of tufa that drank the sun’s heat and gave back nothing. The atrium was a study in restrained power: the black-and-white mosaic floor depicted not frolicking nymphs, but the solemn, linear pattern of a labyrinth. The impluvium pool at its center held water so still it looked like a sheet of dark glass. The air smelled of beeswax, dried lavender, and stone.
@@ -242,6 +246,8 @@ He had not introduced a random variable. He had been a variable in his father’
 And for the first time, with a clarity that was like a shard of ice in his heart, Lucius began to.
 
 ---
+# Chapter 3
+
 ## CHAPTER 3
 
 The study of Gaius Veturius was a sanctum of calculation. Here, the labyrinth of the atrium gave way to stark utility: a massive desk of citrus wood, a single chair, shelves holding not scrolls of poetry but ledgers, maps on rollers, and small, heavy chests. The only light came from a high, narrow window, cutting a sharp beam through the dust-moted air. It fell directly on the map unfurled on the desk, illuminating a stretch of the Via Appia. A small, onyx weight held down each corner.
